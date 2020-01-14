@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/LINBIT/zfsreplay"
+	zfsreplay "github.com/LINBIT/gozfsreplay"
 )
 
 func main() {
